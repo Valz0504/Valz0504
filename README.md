@@ -1,7 +1,7 @@
 # Hello there 👋🏻
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=36BCF7&width=435&lines=I+am+Emilio+Justin;Informatics+Engineering+@+ITB;Software+Engineer+%26+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=36BCF7&width=435&lines=I+am+Emilio+Justin;Informatics+Engineering+@+ITB;" alt="Typing SVG" />
 </p>
 
 Mainly interested in Software Engineering & Data Science. <br>
